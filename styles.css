@@ -1,0 +1,35 @@
+body {
+    background-color: lightblue;
+}
+.box {
+    background-color: red;
+    width: 400px;
+    border: dashed;
+    margin: 10px auto;
+    padding: 10px;
+    text-align: center;
+    
+}
+img {
+    height: 200px;
+}
+h1, h2 {
+    text-align: center;
+}
+h1 {
+    font-family: 'Kaushan Script', cursive;
+    font-size: 50px;
+    color: darkblue;
+}
+h2 {
+    font-family: 'Ropa Sans', sans-serif;
+    font-size: 30px;
+    text-decoration: underline;
+}
+p, li {
+    font-family: Arial;
+}
+h3 {
+    font-size: 12px;
+    text-align: right;
+}
